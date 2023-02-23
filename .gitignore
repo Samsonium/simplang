@@ -1,0 +1,10 @@
+/*
+
+# Exclude dirs
+!/src
+
+# Exclude files
+!/.gitignore
+!/build.js
+!/package.json
+!/README.md
